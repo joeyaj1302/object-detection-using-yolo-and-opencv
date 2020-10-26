@@ -4,4 +4,6 @@
 	 
 	 
 You can find a brief introduction to yolo algorithm in this medium article here : https://medium.com/@jonathan_hui/real-time-object-detection-with-yolo-yolov2-28b1b93e2088
+
+
 The 80 different objects that can be detected by yolo are : https://github.com/pjreddie/darknet/blob/master/data/coco.names
