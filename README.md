@@ -11,7 +11,8 @@ Steps to setup the environment and run the code:-
 5. Pass in the required parameters of input and output file names and the model directory 
 
 
-eg. of passing the parameters in cli -
+eg. of passing the parameters in cli :-
+
 (YOUR ENV) C:\Users\<NAME>\Desktop\projects\yolo>python yolo_video_final.py --choice upload_video --input_path video.mp4 --output_path out_video.mp4 --yolo yolo_file
    
 Since the weights file of the yolov3 model is quite large(237mb) I cannot upload it to github and u can find it here: https://pjreddie.com/darknet/yolo/
