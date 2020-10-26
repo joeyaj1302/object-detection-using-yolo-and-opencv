@@ -1,0 +1,5 @@
+1. python 3.6 or newer
+2. opencv version 2
+3. imutils
+4. numpy
+5. argparse
