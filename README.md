@@ -9,6 +9,8 @@ Steps to setup the environment and run the code:-
 3. Open your Command Prompt / Terminal and cd into the directory you stored all the project files
 4. Activate the environment that will run ur script
 5. Pass in the required parameters of input and output file names and the model directory 
+
+
 eg. of passing the parameters in cli -
 (YOUR ENV) C:\Users\<NAME>\Desktop\projects\yolo>python yolo_video_final.py --choice upload_video --input_path video.mp4 --output_path out_video.mp4 --yolo yolo_file
    
