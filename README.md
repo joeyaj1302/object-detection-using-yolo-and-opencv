@@ -14,7 +14,7 @@ Steps to setup the environment and run the code:-
 eg. of passing the parameters in cli :-
 (YOUR ENV) C:\Users\<NAME>\Desktop\projects\yolo>python yolo_video_final.py --choice upload_video --input_path video.mp4 --output_path out_video.mp4 --yolo yolo_file
    
-Since the weights file of the yolov3 model is quite large(237mb) I cannot upload it to github and u can find it here: https://pjreddie.com/darknet/yolo/
+Since the weights file of the yolov3 model is quite large(237mb) I cannot upload it to github and you can find it here: https://pjreddie.com/darknet/yolo/
 	 
 	 
 You can find a brief introduction to yolo algorithm in this medium article here : https://medium.com/@jonathan_hui/real-time-object-detection-with-yolo-yolov2-28b1b93e2088
