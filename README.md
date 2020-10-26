@@ -1,4 +1,4 @@
-# object-detection-using-yolo-and-opencv
+# object-detection-in videos using-yolo-and-opencv
 
    In this project I've used transfer learning to load the yolov3 pretrained model and apply it to images and videos to detect the common objects present in them. Yolo or you only look once algorithm used  here is a state of the art real time object detection algorithm trained on the coco dataset by the Darknet team. In this repo you will find a yolo_video_final.py which is used for real time object detection on given video or webcam stream. I have used arguement parser to get the input and output paths of the video and setting some of the optional parameters for fine tuning. Opencv is used to draw the bounding boxes over detections, display the frame and write the output video to disk.
    
